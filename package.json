@@ -1,0 +1,24 @@
+{
+  "name": "point-on-circle",
+  "version": "1.0.1",
+  "description": "Simple method to find a point on a circle calculated from a center point and a point on the circle",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/point-on-circle.git"
+  },
+  "keywords": [
+    "point",
+    "math",
+    "geometry"
+  ],
+  "author": "Dennis Iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/point-on-circle/issues"
+  },
+  "homepage": "https://github.com/diversen/point-on-circle#readme"
+}
