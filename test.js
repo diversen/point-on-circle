@@ -1,7 +1,7 @@
 var circlePoint = require('./index.js');
 
 // Radians to move around the center point
-var radians = 0; // Math.PI/4;
+var radians = Math.PI/4;
 
 // Center point in x, y
 var center = {x: 200, y: 200};
