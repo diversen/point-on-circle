@@ -1,6 +1,6 @@
 {
   "name": "point-on-circle",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple method to calculate a new point on a circle based on a center point, current point on circle to move from, num radians to move by. ",
   "main": "index.js",
   "scripts": {
