@@ -1,6 +1,10 @@
 # point-on-circle
 
-Simple method to find a point on a circle calculated with a center point
+Simple method to calculate a new point on a circle based on 
+
+- a center point, 
+- current point on circle to move from, 
+- num radians to move by. 
 
 npm install --save point-on-circle
 
